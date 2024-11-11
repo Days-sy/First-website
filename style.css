@@ -1,0 +1,39 @@
+
+body{background-image: url(https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/canvas/2024/03/25/dcb66da2-ef9e-4639-b87f-66cc20513e93_7a70050c.jpg?itok=WASy6AoK&v=1711354143)
+
+}
+
+
+
+
+table, th,td {
+    border: 1px solid rgb(247, 224, 224);
+margin-right: auto;
+margin-left: auto;
+margin-bottom: auto;
+}
+h1{text-align: center;}
+h5{text-align: center;}
+body
+
+
+body{
+ background-color:rgb(235, 221, 162) ;
+}
+form{ 
+    background-color: rgb(222, 238, 233);
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin: 0;
+    h1{text-align: center;}
+h5{text-align: center;}
+}
+
+form {
+    border: 1px solid rgb(247, 224, 224);
+margin-right: auto;
+margin-left: auto;
+margin-bottom: auto;
+
+}
